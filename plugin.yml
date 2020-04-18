@@ -1,3 +1,9 @@
 name: HistoricalCraftMain
-main: me.histordev.HistoricalCraftMain.HistoricalCraftMain
+main: me.histordev.HistoricalCraft.Main
 version: 0.1
+
+commands:
+   crafts:
+      description: test
+      permission: HistoricalCraft.basic
+      usage: /<command>
